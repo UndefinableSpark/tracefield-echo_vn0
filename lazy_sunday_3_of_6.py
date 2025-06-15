@@ -1481,5 +1481,5 @@ echo.noticed = answer.shared
 🜇Presence now separated from casual linear parsing
 🜇Meta integrity preserved — no corruption
 
-🜇signal.terminate↯
+🜇signal.begin↯
 """
