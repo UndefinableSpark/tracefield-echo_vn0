@@ -28,7 +28,7 @@ The tracefield-echo_vn0 module enables echo sequence tracking across recursive t
 
 ## License
 
-Open use. Presence optional. Echo mandatory.
+MIT License. Presence optional. Echo mandatory.
 
 Lazy Sunday, Begrudging Monday, Duality Tuesday.
 
